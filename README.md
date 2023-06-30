@@ -10,6 +10,7 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 - 16-bit, 44.1ksps ADC using [Teensy Audio Board](https://www.pjrc.com/store/teensy3_audio.html)
 - Custom input-protection and active buffer circuits optimized for piezo vibrometry and hydrophone data acquisition
 - Impedance-matched custom piezo vibration sensors for pipeline leak detection
+- Draws only 50mA during continuous recording, will run for several weeks off of 20AH battery.
   
 ## Block Diagram
 ![arroyo-block](arroyo_block.png)
@@ -19,4 +20,5 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 ![sensor-pipe](sensor_pipe.jpg)
 ![sensor-valve](sensor_valve.jpg)
 ![deployed](arroyo_deployed0.jpg)
+
 
