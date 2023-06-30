@@ -20,5 +20,7 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 ![sensor-pipe](sensor_pipe.jpg)
 ![sensor-valve](sensor_valve.jpg)
 ![deployed](arroyo_deployed0.jpg)
-
+## JFET Piezo Buffer
+(see schematic file in repository)
+![JFET-schematic](jfet_schematic.png)
 
