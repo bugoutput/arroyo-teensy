@@ -3,6 +3,7 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 ## Features
 - 600MHz ARM Cortex M7 Processor (Teensy 4.1)
 - Onboard RTC and optional GPS-disciplined oscillator
+- Low-power sleep mode without requiring outboard watchdog controller
 - Floating-point coprocessor enables realtime 256-point FFT
 - 55 GPIO pins facilitate large-scale sensor integration for automatically labeling AI training data and triggering recording based on specific sensor events. GPIO includes 8 serial interfaces, 3 SPI, 3 I2C, 2 I2S/TDM and 1 S/PDIF ports. 
 - Micro-SD card data logging
