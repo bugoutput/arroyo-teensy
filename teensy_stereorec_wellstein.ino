@@ -1,3 +1,5 @@
+// Based on the discussion of users in this thread: https://forum.pjrc.com/threads/46150-Recording-Stereo-Audio-to-SD-Card
+
 #include <Audio.h>
 #include <Wire.h>
 #include <SPI.h>
