@@ -11,3 +11,12 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 - Custom input-protection and active buffer circuits optimized for piezo vibrometry and hydrophone data acquisition
 - Impedance-matched custom piezo vibration sensors for pipeline leak detection
   
+## Block Diagram
+![arroyo-block](arroyo_block.png)
+## Piezo Vibrometer
+![sensor-block](sensor_block.png)
+## Leak Detection Application Test
+![sensor-pipe](sensor_pipe.jpg)
+![sensor-valve](sensor_valve.jpg)
+![deployed](arroyo_deployed0.jpg)
+
