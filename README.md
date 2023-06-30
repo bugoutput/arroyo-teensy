@@ -22,5 +22,5 @@ Low-cost hydroacoustic datalogger with similar capability to the [Arroyo](https:
 ![deployed](arroyo_deployed0.jpg)
 ## JFET Piezo Buffer
 (see schematic file in repository)
-![JFET-schematic](jfet_schematic.png)
+![JFET-schematic](buffer_schematic.png)
 
